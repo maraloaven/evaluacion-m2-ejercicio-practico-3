@@ -1,5 +1,5 @@
 
-# Ejercicio 2 - Página Web Clínica con HTML, CSS y SASS
+# Ejercicio 3 - Página Web Clínica con HTML, CSS y SASS
 
 Este es un proyecto de una página web para la Clínica Clínica, diseñado con HTML y CSS (SASS). El sitio web presenta información básica de la clínica, incluyendo una página de bienvenida, detalles sobre el equipo médico y una sección de contacto.
 
